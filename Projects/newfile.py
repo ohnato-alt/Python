@@ -1,1 +1,2 @@
 print("sdddd")
+print("ㄴㄴ")
