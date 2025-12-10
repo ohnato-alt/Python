@@ -1,1 +1,1 @@
-sdddd
+print("sdddd")
